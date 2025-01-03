@@ -39,7 +39,7 @@ https://airnest-fa2g.onrender.com/listings
 
 Clone this repository to your local machine:  
 ```bash
-git clone https://github.com/YourUsername/AirNest.git
+https://github.com/rasikarakhewar3010/AirNest.git
 ```  
 
 ### Step 2: Navigate to the Project Directory  
